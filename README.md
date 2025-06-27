@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Hany Sabeh – AI / Data Engineer Portfolio</title>
+  <title>Hany Sabeh - AI / Data Engineer Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
