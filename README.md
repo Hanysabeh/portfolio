@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Hany Sabeh - AI / Data Engineer Portfolio</title>
-  <style>
+    <style>
     body {
       font-family: Arial, sans-serif;
       margin: 40px auto;
@@ -44,6 +43,7 @@
       color: #555;
     }
   </style>
+  <title>Hany Sabeh - AI / Data Engineer Portfolio</title>
 </head>
 <body>
   <h1>Hany Sabeh</h1>
